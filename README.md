@@ -1,4 +1,4 @@
-# 📁 Documentação disponível do [Inventário](https://github.com/HyperScripts/Inventory/wiki)
+# 📁 Documentação disponível do [Inventário](https://github.com/HyperScripts/Inventory/wiki/Invent%C3%A1rio)
 
 ### ⚠ Caso não entenda de como utilizar as exportações disponíveis, abra um ticket em nossa loja para mais detalhes.
 
