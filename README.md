@@ -1,4 +1,4 @@
-# 📁 Documentação disponível do [Sistema bancário](https://github.com/HyperScripts/Banking/wiki/Sistema-banc%C3%A1rio)
+# 📁 Documentação disponível do [Inventário](https://github.com/HyperScripts/Banking/wiki/Sistema-banc%C3%A1rio)
 
 ### ⚠ Caso não entenda de como utilizar as exportações disponíveis, abra um ticket em nossa loja para mais detalhes.
 
